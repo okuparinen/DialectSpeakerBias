@@ -4,6 +4,8 @@ The scripts and data splits for the paper "Effects of Speaker Bias in Dialect Id
 For Voice Conversion, [KNN-VC](https://github.com/bshall/knn-vc) is used.
 
 ### Citation
+[Effects of Speaker Bias in Dialect Identification and Automatic Transcription with Self-Supervised Speech Models](https://aclanthology.org/2026.vardial-1.3/) (Kuparinen, VarDial 2026)
+
 @inproceedings{kuparinen-2026-effects,
     title = "Effects of Speaker Bias in Dialect Identification and Automatic Transcription with Self-Supervised Speech Models",
     author = "Kuparinen, Olli",
