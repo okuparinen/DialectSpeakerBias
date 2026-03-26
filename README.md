@@ -1,4 +1,4 @@
-# Scripts and data splits for modeling speaker bias in dialectal transcription and dialect identification
+## Scripts and data splits for modeling speaker bias in dialectal transcription and dialect identification
 The scripts and data splits for the paper "Effects of Speaker Bias in Dialect Identification and Automatic Transcription with Self-Supervised Speech Models". LIA is for Norwegian data and SKN for Finnish. The audio files are available at [HuggingFace](https://huggingface.co/okuparinen/datasets).
 
 For Voice Conversion, [KNN-VC](https://github.com/bshall/knn-vc) is used.
